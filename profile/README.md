@@ -1,5 +1,5 @@
 # IncognitLabs
-<svg src="https://github.com/IncognitLabs/.github/blob/5eefc8ec65b4106267f777d7295946d1515ae0a3/branding/branding/svg/logo-color.svg" width="100" height="100" />
+<svg src="https://github.com/IncognitLabs/.github/blob/5eefc8ec65b4106267f777d7295946d1515ae0a3/branding/branding/svg/logo-color.svg" width="100" height="100"></svg>
 > Developing open offensive tooling!
 
 ## Welcome to IncognitLabs! 🚀
