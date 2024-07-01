@@ -27,7 +27,6 @@ To get started with any of our projects, check out the [CryptHub Documentation](
 
 ## Contact Us 📬
 
-- **Email**: [cam@incognitlabs.com](mailto:cam@incognitlabs.com)
 - **GitHub Discussions**: [Join the discussion](https://github.com/orgs/IncognitLabs/discussions)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=IncognitLabs)
