@@ -28,5 +28,6 @@ To get started with any of our projects, check out the [CryptHub Documentation](
 ## Contact Us 📬
 
 - **GitHub Discussions**: [Join the discussion](https://github.com/orgs/IncognitLabs/discussions)
+- **Matrix**: ![Matrix](https://img.shields.io/matrix/incognitlabs%3Amatrix.org?server_fqdn=matrix.org&style=flat&logo=matrix)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=IncognitLabs)
